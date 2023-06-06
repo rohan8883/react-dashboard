@@ -117,7 +117,7 @@ const Test = () => {
                     <div className='p-3 '>
 
                         <button className='text-red-500 font mt-2 font-extrabold'>about Us</button>
-                        <h1 className='text-4xl font-serif'>Best online Agency <br />with Best rating</h1>
+                        <h1 className='text-4xl font-serif'>Best online apple Agency <br />with Best rating</h1>
                         <div className='sm1:w-[100%] sm:w-[50%]'> <h1 className='text-sm'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit illo fugiat maiores temporibus. Libero, cum voluptatem quis atque agnam mollitia deleniti atque!</h1></div> <br />
                         <div className='sm1:w-[100%] sm:w-[50%] '> <h1 className='text-sm font-bold'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit illo fugiat</h1></div>
 
